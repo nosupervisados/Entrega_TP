@@ -1,5 +1,7 @@
 # Entrega_TP
 
+> Entrega del TP de la materia Aprendizaje No Supervisado de la Diplomatura en Ciencias de Datos - FaMAFyC 2020
+
 Este repo contiene las notebooks correspondientes al análisis y desarrollo del TP de la materia Aprendizaje no supervisado de la Diplomatura en Ciencia de Datos.
 
 # Contenido
@@ -13,6 +15,9 @@ Este repo contiene las notebooks correspondientes al análisis y desarrollo del 
 # Integrantes
 
 Karen Palacio
+
 Francisco
+
 Manuela
+
 Julieta
