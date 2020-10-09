@@ -16,8 +16,8 @@ Este repo contiene las notebooks correspondientes al análisis y desarrollo del 
 
 Karen Palacio
 
-Francisco
+Francisco Gil
 
-Manuela
+Manuela Lois
 
-Julieta
+Julieta Pacharoni
